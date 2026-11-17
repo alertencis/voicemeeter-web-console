@@ -1,0 +1,10 @@
+# Config locale (IP et noms de vos PC)
+vol_config.json
+
+# Environnement Python
+venv/
+__pycache__/
+
+# Logo / favicon personnels (restent sur votre machine)
+logo.*
+favicon.*
